@@ -1,9 +1,9 @@
-1. $ ls
-2. $ cd "C:\Users\Sonalkar\Positive Electron
-3. $ ls
-4. $ git init
-5. $  git remote add origin https://github.com/sadiqsonalkar/dfghj.git
-6. $ git remote -v
-7. $ git add .
-8. $ git commit -m "yeh hai commit"
-9. $ git push origin master
+ $ git config --global user.name "sadiqsonalkar" (github ka username)
+ $ git config --global user.email "sadiqsonalkar21@gmail.com" (github ka email)
+ $ ls
+ $ git init
+ $  git remote add origin https://github.com/sadiqsonalkar/dfghj.git
+ $ git remote -v
+ $ git add .
+ $ git commit -m "yeh hai commit"
+ $ git push origin master
