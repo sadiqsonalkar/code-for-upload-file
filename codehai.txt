@@ -1,4 +1,6 @@
 Sonalkar@Sonalkar MINGW64 ~
+
+
 $ ls
  AndroidStudioProjects/
  AppData/
@@ -36,20 +38,30 @@ $ ls
  Templates@
  Videos/
 
+
+
 Sonalkar@Sonalkar MINGW64 ~
 $ cd "C:\Users\Sonalkar\Positive Electron\SEM 3\java\graphic"
+
+
 
 Sonalkar@Sonalkar MINGW64 ~/Positive Electron/SEM 3/java/graphic
 $ ls
 Arc.class  Fish.class  House.class  mickey.class  sun.class
 Arc.java   Fish.java   House.java   mickey.java   sun.txt.java
 
+
+
 Sonalkar@Sonalkar MINGW64 ~/Positive Electron/SEM 3/java/graphic
 $ git init
 Initialized empty Git repository in C:/Users/Sonalkar/Positive Electron/SEM 3/java/graphic/.git/
 
+
+
 Sonalkar@Sonalkar MINGW64 ~/Positive Electron/SEM 3/java/graphic (master)
 $  git remote add origin https://github.com/sadiqsonalkar/dfghj.git
+
+
 
 Sonalkar@Sonalkar MINGW64 ~/Positive Electron/SEM 3/java/graphic (master)
 $ git remove -v
@@ -63,8 +75,12 @@ $ git remote -v
 origin  https://github.com/sadiqsonalkar/dfghj.git (fetch)
 origin  https://github.com/sadiqsonalkar/dfghj.git (push)
 
+
+
 Sonalkar@Sonalkar MINGW64 ~/Positive Electron/SEM 3/java/graphic (master)
 $ git add .
+
+
 
 Sonalkar@Sonalkar MINGW64 ~/Positive Electron/SEM 3/java/graphic (master)
 $ git commit -m "yeh hai commit"
@@ -80,6 +96,8 @@ $ git commit -m "yeh hai commit"
  create mode 100644 mickey.java
  create mode 100644 sun.class
  create mode 100644 sun.txt.java
+
+
 
 Sonalkar@Sonalkar MINGW64 ~/Positive Electron/SEM 3/java/graphic (master)
 $ git push origin master
