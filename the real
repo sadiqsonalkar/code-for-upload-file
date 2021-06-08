@@ -2,8 +2,9 @@
  $ git config --global user.email "sadiqsonalkar21@gmail.com" (github ka email)
  $ ls
  $ git init
- $  git remote add origin https://github.com/sadiqsonalkar/dfghj.git
- $ git remote -v
  $ git add .
  $ git commit -m "yeh hai commit"
- $ git push origin master
+ $ git status
+ $ git remote add origin https://github.com/sadiqsonalkar/dfghj.git (yeh link github pe jab repo ban jati hai toh aati hai just copy the whole link)
+ $ git branch -M main
+ $ git push -u origin main
