@@ -9,3 +9,17 @@ private is private to you
 READMe file select kar sakte nhi bhi chalenga
 repository means empty folder ban gaya hai
 install git
+And open git in the folder you want to upload 
+phir code likhna hai(dusre isme hai)
+then username and password github ka daalna hai authentication ke liye
+and then woh hu jainga.
+page ko refresh kro and woh upload hu jaingi.
+
+and if usse host karna hai toh follow the below steps:
+go to the setting of the repo 
+scroll
+github pages ka ek option aainga.
+source hai uske andar none likha hai
+woh none ko change karke main krdo.
+save
+abhi woh github pages pe ek link aaingi woh link tumhre host ki hai.
